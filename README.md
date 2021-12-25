@@ -1,4 +1,4 @@
-![Lenovo_Opencore](https://user-images.githubusercontent.com/24893709/147383347-15d0751f-9ad6-4a1f-9ea6-7d3e32ef8b47.jpg)
+![Lenovo_Opencore](https://github.com/Hayo-Tee/Lenovo-Legion-Y520-OpenCore/blob/main/Lenovo_Opencore.jpg?raw=true)
 # This is my OpenCore EFI for Lenovo Legion Y520.
 
 ### OS:
