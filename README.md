@@ -1,11 +1,12 @@
+![Lenovo_Opencore](https://user-images.githubusercontent.com/24893709/147383347-15d0751f-9ad6-4a1f-9ea6-7d3e32ef8b47.jpg)
 # This is my OpenCore EFI for Lenovo Legion Y520.
 
 ### OS:
 - macOS BigSur 11.6.1. ✅ tested
 - macOS Monterey should work too ⚠ not tested yet
-
+##
 ### OpenCore current version is 0.7.6.
-
+##
 
 ## Working almost everything:
 - iGPU
@@ -52,3 +53,7 @@ If your sleep mode still does not work, try disconnecting your USB mouse and key
 ## Credits:
 - [adrianjagielak](https://github.com/adrianjagielak)
 - [rizanw](https://github.com/rizanw)
+
+## If something doesn't work for you, I can help you fix it.
+
+### Please donate to me. This stimulates me to further develop, and to buy additional laptop accessories.
