@@ -43,8 +43,8 @@
     Fast boot is disabled.
     SATA mode is set to AHCI.
 
-## Note
-If your sleep mode still does not work, try disconnecting your USB mouse and keyboard before disconnecting and read the [instructions](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations).
+## Note:
+If your sleep mode still does not work, try disconnecting your USB mouse and keyboard before go to sleep, and read the [instructions](https://dortania.github.io/OpenCore-Post-Install/universal/sleep.html#preparations).
 
 ## To do:
 - Buy a compatible Wi-Fi card and try to fix the Wi-Fi.
