@@ -58,4 +58,8 @@ If your sleep mode still does not work, try disconnecting your USB mouse and key
 
 ### Please donate to me. This stimulates me to further develop, and to buy additional laptop accessories.
 
-<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=Donate%20me%2C%20please.&targets-hint=&default-sum=350&button-text=14&fio=on&hint=&successURL=&quickpay=shop&account=4100117434738484&" width="100%" height="239" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
+<p align="center">
+<a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="300" alt="OpenCollective donate button" /></a>
+<a href="https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS"><img src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" alt="PayPal donate button" /> </a>
+<a href="https://yoomoney.ru/to/4100117434738484"><img src="https://yoomoney.ru/transfer/balance-informer/balance?id=2325540116582991&key=944AD068AAC1CF47" width="100" alt="YooMoney Donate button" /> </a>
+</p>
