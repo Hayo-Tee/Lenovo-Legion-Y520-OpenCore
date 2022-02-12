@@ -58,8 +58,4 @@ If your sleep mode still does not work, try disconnecting your USB mouse and key
 
 ### Please donate to me. This stimulates me to further develop, and to buy additional laptop accessories.
 
-<p align="center">
-<a href="https://opencollective.com/openipc/contribute/backer-14335/checkout" target="_blank"><img src="https://opencollective.com/webpack/donate/button@2x.png?color=blue" width="300" alt="OpenCollective donate button" /></a>
-<a href="https://www.paypal.com/donate/?hosted_button_id=C6F7UJLA58MBS"><img src="https://www.paypalobjects.com/en_US/IT/i/btn/btn_donateCC_LG.gif" alt="PayPal donate button" /> </a>
 <a href="https://yoomoney.ru/to/4100117434738484"><img src="https://yoomoney.ru/transfer/balance-informer/balance?id=2325540116582991&key=944AD068AAC1CF47" width="100" alt="YooMoney Donate button" /> </a>
-</p>
