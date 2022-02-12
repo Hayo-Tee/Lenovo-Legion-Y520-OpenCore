@@ -57,3 +57,5 @@ If your sleep mode still does not work, try disconnecting your USB mouse and key
 ## If something doesn't work for you, I can help you fix it.
 
 ### Please donate to me. This stimulates me to further develop, and to buy additional laptop accessories.
+
+<iframe src="https://yoomoney.ru/quickpay/shop-widget?writer=seller&targets=Donate%20me%2C%20please.&targets-hint=&default-sum=350&button-text=14&fio=on&hint=&successURL=&quickpay=shop&account=4100117434738484&" width="100%" height="239" frameborder="0" allowtransparency="true" scrolling="no"></iframe>
